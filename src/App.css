@@ -1,0 +1,32 @@
+.container {
+  padding: 20px;
+  max-width: full; /* Limita a largura do conteúdo */
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+form input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%; /* Ocupa a largura total do form */
+  box-sizing: border-box;
+}
+
+form button {
+  padding: 5px 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px; /* Tamanho menor de texto */
+}
+
+th, td {
+  border: 1px solid #000;
+  padding: 4px 6px; /* Menos espaço interno */
+  text-align: left;
+}
