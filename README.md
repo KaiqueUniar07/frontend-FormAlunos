@@ -6,6 +6,7 @@ Este é o frontend da aplicação de Cadastro de Alunos, desenvolvido em React, 
 
 - Node.js. 
 - npm.
+- Visual Studio Code
 
 ## Como rodar o projeto
 
